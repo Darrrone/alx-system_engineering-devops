@@ -1,0 +1,9 @@
+0. where am i
+1. what's in there
+2. there is no place like home
+3. The long format
+4. Hidden files
+5. I love numbers
+6. Welcome
+7. Betty in my first directory
+8. 
